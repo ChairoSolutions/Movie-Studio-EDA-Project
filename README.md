@@ -1,4 +1,5 @@
-#Movie Studio Analysis
+#
+Movie Studio Analysis
 **Box Office Mojo and Rotten Tomatoes*
 The analysis focuses on  importing data,inspection and checking missing values using **python and pandas**
 
