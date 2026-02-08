@@ -21,8 +21,8 @@ Our company is launching a new movie studio and needs to decide what types of fi
 4. **Does release timing affect earnings?**  
    By examining release months and their associated revenues, we can identify the optimal times of the year to launch films for maximum success.
 
-   ## JOINING DATA EXPLOITATION
+## JOINING DATA EXPLOITATION
    Using the Box Office and IMDB Datasets, We explore the data to investigate possible joins that can be used during our Analysis. The Columns (primary_title,start_year) on IMDB and (title,year) on Box Office data together, we see a successfull join using pandas hence a crucial step in Data Preparation.
 
-### ***IMDB Basics Cleaning***
+## IMDB Basics Cleaning***
 Use the columns (Genres, Runtime and Years) on the table Movie Basics to do the data cleaning to ensure Accuracy, Consistency and Reliability by Removing errors, duplicates and inconsistencies from the dataset.
