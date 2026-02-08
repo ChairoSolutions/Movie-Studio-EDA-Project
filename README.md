@@ -26,3 +26,7 @@ Our company is launching a new movie studio and needs to decide what types of fi
 
 ## IMDB BASICS DATA CLEANING
 Use the columns (Genres, Runtime and Years) on the table Movie Basics to do the data cleaning to ensure Accuracy, Consistency and Reliability by Removing errors, duplicates and inconsistencies from the dataset.
+
+
+## EDA RATING ANALYSIS IN COMPARISON WITH REVENUE
+The exploratory analysis combining IMDb movie data with box office revenue to understand the relationship between IMDb ratings and commercial success. By combining IMDb movie ratings with box office data, the analysis shows a slight positive correlation, indicating that higher-rated films tend to earn more revenue on average. Scatter plots with regression lines were used to visualize the trend, providing insights into how audience reception, as measured by IMDb ratings, relates to financial performance. These findings can help studios make data-informed decisions about movie releases and understand the potential revenue impact of audience reception.
