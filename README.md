@@ -35,21 +35,23 @@ We also remove the null rows from the merged dataset.
 Save the cleaned data set to data/processed/movie_clean.csv for reproducibility.
 
 ## Evaluation
+#### EDA Plots
 
-*Plot A* : Average Box Office Revenue by Release Year
-![PLOT A](Data/Images/Average Box Office Revenue by Release Year.png)
+*Plot A*: Average Box Office Revenue by Release Year  
+![Plot A](data/images/Average_Box_Office_Revenue_by_Release_Year.png)
 
-*Plot B* : Average Movie Rating by Runtime
-![PLOT B](Data/Images/Average Movie Rating by Runtime.png)
+*Plot B*: Average Movie Rating by Runtime  
+![Plot B](data/images/Average_Movie_Rating_by_Runtime.png)
 
-*Plot C* : Movie Duration vs IMDB Rating
-![PLOT C](Data/Images/Movie Duration vs IMDB Rating.png)
+*Plot C*: Movie Duration vs IMDB Rating  
+![Plot C](data/images/Movie_Duration_vs_IMDB_Rating.png)
 
-*Plot D* :Top Genres by Average Box Office Revenue
-![PLOT D](Data/Images/Top Genres by Average Box Office Revenue.png)
+*Plot D*: Top Genres by Average Box Office Revenue  
+![Plot D](data/images/Top_Genres_by_Average_Box_Office_Revenue.png)
 
-*Plot E* : Movie Runtime vs Box Office Revenue
-![PLOT E](Data/Images/Movie Runtime vs Box Office Revenue.png)
+*Plot E*: Movie Runtime vs Box Office Revenue  
+![Plot E](data/images/Movie_Runtime_vs_Box_Office_Revenue.png)
+
 
 ## Reccomendation
 * Investing in Sci-Fi, Animation and Adventure offers the strongest opprtunity to maximize box office performance while supporting long term growth.
@@ -61,4 +63,4 @@ Average box office revenue per movie has increased over time, indicating sustain
 * While longer films receive slightly higher ratings on average, the impact is small and inconsistent, and runtime alone does not meaningfully influence how audiences rate a movie. Avoid using movie length as a primary lever to improve audience ratings
 * While longer films tend to receive slightly higher ratings on average, the effect is **small and inconsistent**. Movie runtime alone does **not meaningfully influence** how audiences rate a movie. Focus on other factors such as story quality, cast performance, and production values to improve ratings.Avoid using movie length as a primary lever to improve audience ratings
 
- main
+ 
