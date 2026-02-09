@@ -36,19 +36,19 @@ Save the cleaned data set to data/processed/movie_clean.csv for reproducibility.
 ## Evaluation
 
 *Plot A* : Average Box Office Revenue by Release Year
-![PLOT A](Data/Images/Average Box Office Revenue by Release Year.png)
+![Plot A](data/images/Average_Box_Office_Revenue_by_Release_Year.png)
 
 *Plot B* : Average Movie Rating by Runtime
-![PLOT B](Data/Images/Average Movie Rating by Runtime.png)
+![PLOT B](data/images/Average_Movie_Rating_by_Runtime.png)
 
 *Plot C* : Movie Duration vs IMDB Rating
-![PLOT C](Data/Images/Movie Duration vs IMDB Rating.png)
+![PLOT C](data/images/Movie_Duration_vs_IMDB_Rating.png)
 
 *Plot D* :Top Genres by Average Box Office Revenue
-![PLOT D](Data/Images/Top Genres by Average Box Office Revenue.png)
+![PLOT D](data/images/Top_Genres_by_Average_Box_Office_Revenue.png)
 
 *Plot E* : Movie Runtime vs Box Office Revenue
-![PLOT E](Data/Images/Movie Runtime vs Box Office Revenue.png)
+![PLOT E](data/images/Movie_Runtime_vs_Box_Office_Revenue.png)
 
 ## Reccomendation
 * Investing in Sci-Fi, Animation and Adventure offers the strongest opprtunity to maximize box office performance while supporting long term growth.
