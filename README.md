@@ -98,3 +98,11 @@ https://public.tableau.com/app/profile/sylvia.mokindo/viz/Moviedashboard_1770812
 + 03_analysis_insights.ipynb – Final insights and recommendations
 
  main
+
+ ## Data Setup 
+ To reproduce this project
+ * Download dataset - IMDB data  - BOM.CSV.gz - tmdb.csv.gz
+ * Place them inside zippedData
+ * Extract im.db.zip to data
+   
+   
